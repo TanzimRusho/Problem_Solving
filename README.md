@@ -10,6 +10,7 @@ Practice and contest codes with collections of blogs and tutorials.
 ## Tricks
 * [Minimum delete operations to make all elements of array same](https://www.geeksforgeeks.org/minimum-delete-operations-make-elements-array/)
 * [Time Limit Exceeded - How To Avoid TLE?](https://www.youtube.com/watch?v=S8V444xdNvM)
+* [Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
 
 ## STL
 * [Mastering C++ STL || Indian Programming Camp 2020 - Beginner Track || Sanket Singh](https://youtu.be/Bndkkt-xqls)
