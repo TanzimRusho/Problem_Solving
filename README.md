@@ -20,3 +20,6 @@ Practice and contest codes with collections of blogs and tutorials.
 
 ## SPOJ
 * [Java Solution of Julka](https://github.com/krnbatra/SPOJ-Solutions/blob/master/JULKA.java) 
+
+## AtCoder
+* [AtCoder Regular Contest 127: Problem A - Leading 1's Editorial by evima](https://atcoder.jp/contests/arc127/editorial/2694)
